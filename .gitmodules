@@ -1,0 +1,3 @@
+[submodule "Assets/Submodule/FaceTrackingExternalSDK"]
+	path = Assets/Submodule/FaceTrackingExternalSDK
+	url = https://github.com/j-choi-dev/FaceTrackingExternalSDK.git
